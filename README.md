@@ -32,4 +32,4 @@ Features
         Your total score
         Correct/incorrect answers for each question
         Any missed questions
-    Options to retake the quiz or return to the setup screen to adjust settings.
+    Options to retake the quiz or return to the setup screen to adjust settings...
